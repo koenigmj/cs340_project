@@ -1,0 +1,16 @@
+{
+  "name": "Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Home.js",
+  "scripts": {
+    "deploy": "gh-pages -d Project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://xavierh93.github.io/cs340_project",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
