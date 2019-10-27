@@ -6,7 +6,7 @@ fieldset {
 
 body {
   margin: 0;
-  background-color: #000000;
+  background-color: rgb(10,25,47);
   background-size: cover;
   color: white;
   font-family: "Courier New", Courier, monospace;
