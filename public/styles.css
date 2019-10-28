@@ -1,8 +1,8 @@
 /*Header Style*/
 header {
-  color: rgb(230, 241, 255);
   text-align: center;
   font-size: 35px;
+	color: white;
 }
 
 #header-line {
@@ -19,14 +19,14 @@ fieldset {
 
 body {
   margin: 0;
-  background-color: rgb(10,25,47);
+  background-color: rgb(230, 241, 255);
   background-size: cover;
   color: white;
   font-family: "Raleway", sans-serif;
 }
 h1, h2 {
   text-align: center;
-  color: #800;
+  color: white;
 }
 
 /*Table Style*/
@@ -46,7 +46,8 @@ tbody th {
 #navbar {
   z-index: 1;
   overflow: hidden;
-  background-color: #333;
+  background-color: grey;
+	color: white;
   text-align: center;
 }
 #navbar a {
