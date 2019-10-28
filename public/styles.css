@@ -1,3 +1,16 @@
+/*Header Style*/
+header {
+  color: rgb(230, 241, 255);
+  text-align: center;
+  font-size: 35px;
+}
+
+#header-line {
+  border: 1px solid;
+  width: 100%;
+  margin: auto;
+}
+
 
 /*Body Style*/
 fieldset {
@@ -9,7 +22,7 @@ body {
   background-color: rgb(10,25,47);
   background-size: cover;
   color: white;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Raleway", sans-serif;
 }
 h1, h2 {
   text-align: center;
